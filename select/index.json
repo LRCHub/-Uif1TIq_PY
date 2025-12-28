@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "博徒2020",
+  "base_artist": "DJ RYOW",
+  "createdAt": "2025-12-28T01:51:35.991036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "博徒2020 feat. “E”qual, SOCKS, ¥ELLOW BUCKS, AK-69, 般若, 孫GONG, R-指定",
+      "artist": "DJ RYOW",
+      "has_synced": false,
+      "path": "select/01_博徒2020_feat._“E”qual,_SOCKS,_¥ELLOW_BUCKS,_AK-69,_般若,_孫GONG,_R-指定_DJ_RYOW.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "博徒2020",
+      "artist": "DJ RYOW",
+      "has_synced": true,
+      "path": "select/02_博徒2020_DJ_RYOW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "博徒2020",
+      "artist": "DJ RYOW & SPACE DUST CLUB, \"E\"qual, SOCKS, ¥ELLOW BUCKS, AK-69, 般若, 孫GONG, R-指定",
+      "has_synced": false,
+      "path": "select/pl_01_博徒2020_DJ_RYOW_&_SPACE_DUST_CLUB,__E_qual,_SOCKS,_¥ELLOW_BUCKS,_AK-69,_般若,_孫GONG,_R-指定.txt"
+    }
+  ]
+}
